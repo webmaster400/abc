@@ -1,0 +1,105 @@
+Key Specs
+
+Windows 10
+
+Performance
+	Celeron Dual Core
+	1.1 Ghz
+	4 GB 
+	DDR
+	4 RAM	
+
+
+Design
+	15.6 inches (39.62 cm)
+	1366 x 768 pixels
+	1.9 Kg, 27.2 mm thick	
+
+Storage
+	1 TB HDD
+	SATA
+	5400 RPM
+	
+Battery
+	Li-Ion
+	3 Cell
+
+
+Wi-fi		Bluetooth				Web Camera
+HDMI Port	Multi-Format SD Media card ...
+
+
+
+
+
+General Information
+	Brand		Asus
+	Model		X543MA-GQ1015T
+	Dimensions(WxHxD)		381 x 251 x 27.2  mm
+	Weight		1.9 Kg
+	Colors		Transparent Silver
+	Operating System		Windows 10 Home Basic
+	Operating System Type		64-bit 
+
+
+Display Details
+	Display Size		15.6 Inches (39.62 cm)
+	Display Resolution		1366 x 768 Pixels
+	Pixel Density		100 ppi
+	Display Type		LED
+	Display Features		HD LED Backlit Anti-glare Display (200 nits Brightness, 45% NTSC, 75% Screen-to-body Ratio)
+	Display Touchscreen		No 
+
+Performance
+	Processor		Intel Celeron Dual Core N4020
+	Clock-speed		1.1 Ghz
+	Graphic Processor	Intel UHD 600 
+
+Memory
+	Capacity		4 GB
+	RAM type		DDR4
+	Memory Slots		1
+	Memory Layout		1x4 Gigabyte 
+
+Storage
+	HDD Capacity		1 TB
+	HDD Speed(RPM)		5400 RPM
+	HDD type		SATA 
+
+Battery
+	Battery Cell		3 Cell
+	Battery type		Li-Ion
+	Power Supply		33 W AC Adapter W 
+
+Networking
+	Wireless LAN		802.11 a/b/g/n/ac
+	Bluetooth		yes
+	Bluetooth Version	4.1 
+
+Ports
+	USB 2.0 slots		2
+	SD Card Reader		yes
+	Headphone Jack		yes
+	Microphone Jack		yes 
+
+Multimedia
+	Web-cam			yes
+	Video Recording		720p HD
+	Secondary cam(Rear-facing)		no No
+	Speakers		Built-in Speakers
+	Sound Technologies		Audio by ICEpower, Sonic Master
+	In-built Microphone		yes
+	Microphone Type		Built-in Microphone 
+
+Peripherals
+	Optical Drive		no No
+	Pointing Device		Touchpad with Multi-Touch Gestures Enabled
+	Keyboard		Standard Notebook Keyboard
+	Fingerprint Scanner		no No 
+
+Others
+	Warranty		1 Year
+	Sales Package		Laptop, Battery, AC Adapter, User Guide
+
+
+

@@ -1,0 +1,120 @@
+Key Specs
+Android v8.1 (Oreo)
+
+Performance
+	Octa Core, 1.8 GHz
+	Snapdragon 450
+	3 GB RAM
+	
+Display
+	10.1 inches (25.65 cm)
+	224 PPI, IPS LCD	
+
+Camera
+	5 MP Primary Camera
+	No Flash
+	2 MP Front Camera
+	
+Battery
+	4850 mAh
+	USB Type-C Port
+	Non-Removable
+
+
+32 GB + 256 GB Expandable	Supports Indian bands		No Fingerprint sensor
+FM Radio
+
+
+
+General
+	Launch Date		October 11, 2019 (Official)
+	Brand		Lenovo
+	Model		Tab M10
+	Operating System		Android v8.1 (Oreo)
+	SIM Slot(s)		Single SIM, GSM
+	SIM Size		SIM1: Nano
+	Network		4G: Available (supports Indian bands),
+			3G: Available, 
+			2G: Available
+	Fingerprint Sensor		no No 
+
+
+Design
+	Height		242 mm
+	Width		168 mm
+	Thickness		8.1 mm
+	Weight		480 grams
+	Colours		Slate Black, Polar White 
+
+
+Display
+	Screen Size		10.1 inches (25.65 cm)
+	Screen Resolution		1200 x 1920 pixels
+	Pixel Density		224 ppi
+	Display Type		IPS LCD
+	Touch Screen		yes Capacitive Touchscreen, Multi-touch
+	Screen to Body Ratio		73.01 % 
+
+
+Performance
+	Chipset 		Qualcomm Snapdragon 450
+	Processor		Octa core, 1.8 GHz, Cortex A53
+	Architecture		64 bit
+	Graphics		Adreno 506
+	RAM			3 GB 
+
+
+Storage
+	Internal Memory			32 GB
+	Expandable Memory		yes Up to 256 GB 
+
+
+Camera
+	MAIN CAMERA
+		Resolution		5 MP Primary Camera
+		Sensor			CMOS image sensor
+		Autofocus		yes
+		Flash			no No
+		Image Resolution	2592 x 1944 Pixels
+		Camera Features		Digital Zoom
+	
+	FRONT CAMERA
+		Resolution		2 MP Primary Camera
+		Camera Features		Fixed Focus 
+
+
+Battery
+	Capacity		4850 mAh
+	Type		Li-Polymer
+	User Replaceable		no No
+	USB Type-C		yes 
+
+
+Network & Connectivity
+	SIM Size		SIM1: Nano
+	Network Support		4G (supports Indian bands), 3G, 2G
+	SIM 1			4G Bands:TD-LTE 2600(band 38) / 2300(band 40)
+					FD-LTE 2100(band 1) / 1800(band 3) / 2600(band 7) / 900(band 8) / 850(band 5) / 850(band 19) / 800(band 20)
+				3G Bands:UMTS 1900 / 2100 / 850 / 900 MHz
+				2G Bands:GSM 1800 / 1900 / 850 / 900 MHz
+					GPRS:Available
+					EDGE:Available
+	Voice Calling		no No
+	Wi-Fi			yes Wi-Fi 802.11, a/ac/b/g/n
+	Wi-Fi Features		Mobile Hotspot
+	Bluetooth		yes v4.2
+	GPS			yes with A-GPS, Glonass
+	USB Connectivity		Mass storage device, USB charging 
+
+
+Multimedia
+	FM Radio		yes
+	Audio Jack		3.5 mm
+	Audio Features		Dolby Atmos 
+
+
+Special Features
+	Fingerprint Sensor		no No
+	Other Sensors			Accelerometer
+
+

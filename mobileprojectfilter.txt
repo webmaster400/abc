@@ -1,0 +1,148 @@
+Filtering for mobile
+1. os(drop down)[android, ios]
+2. price range[slide bar]
+3. search on categouries
+4. ram(drop down)[3gb, 4gb, 6gb, &above]
+5. memory(bullet)[32gb,64gb,128gb, above]
+6. battery(bullet)[3000mh,.........]
+7. display(,,)[below 5.2inch, 5.2-5.5, .....6.5 above]
+
+8. screen resolution(,,)[hd, 2k, 4k]
+
+9. procressor(,,)[1.4ghz, 2, 2.3, ...]
+
+10. system on chip(bullet)[snapdragran, mediatek, a chip, exynos]
+
+11. system core(,,)[dual, quad, octacore]
+
+12. refreash rate (,,)[120hz, 90hz, 144hz]
+
+13. camera
+		 front camera 
+		b. , , ,  , ,  , no.(,,)[1, 2]
+		c. , , , , , , , resolutaion(bullet)[8mp, 12, .... 32mp] 
+		
+		 Main camera
+		b. , , , , , , no.(,,)[1,2,3,4]
+		c. , , , , , , resolution(,,)[12mp, 16mp, 20mp, 48mp, 64mp, ......]
+
+14. video (,,)[hd, 4k, slow motion]
+
+15. network type(,,)[2g, 3g, 4g, 5g]
+
+16. sim support(,,)[dual, single, hybrid][dual volte, vowifi]
+
+17. connection and more(check box)[bluetooth5, nfc, fm, face unlock, finger print]
+
+18. design(,,)[slim, water proof, water registant]
+
+19. screen type(bullet)[gorilla, amolad, super amolad, ips lcd]
+
+20. Others(checkbox)[usb type c, usb type b, fast charing, vooc, super vooc]
+
+
+
+
+
+
+
+
+
+
+
+filering for laptop
+
+1. os(drop down)[windows, mac, linus, doc]
+
+2. price range[slide bar]
+
+3. search on categouries
+
+4. ram(drop down)[4gb, 8gb, 12gb, 16gb &above]
+
+4.1 ram type(bullet)[ddr3, ddr4, ddr5]
+
+5. memory(bullet)[128gb, above]
+
+5.1 memory type(,,)[hdd, sdd, m.2, nvme] 
+
+6. battery(bullet)[3000mh,...., 5000]
+
+7. display(,,)[11inch, ....... 17inch]
+
+8. screen resolution(,,)[1024p .... .., 2048p]
+
+9. procressor(,,)[1.4ghz, 2, 2.3, ...]
+
+10. system on chip(bullet)[intel, ryzen, m1 ]
+
+11. system core(,,)[dual, quad, hexacore, octacore]
+
+12. refreash rate (,,)[60Hz, 90Hz, 120Hz, 144Hz]
+
+13. camera(bullet)[yes, no]
+		 
+14. types of laptop('')[Gaming, personal, official]
+
+15. connection and more(check box)[bluetooth5, face unlock, finger print]
+
+16. Others(checkbox)
+
+17. special features(checkbox)[touch screen, 360 rotate, 2 in 1]
+
+
+
+
+
+
+
+
+ 
+Filtering for tablet
+
+1. os(drop down)[android, ios]
+
+2. price range[slide bar]
+
+3. search on categouries
+
+4. ram(drop down)[2gb,3gb, 4gb, 6gb]
+
+5. memory(bullet)[32gb,64gb,128gb]
+
+6. battery(bullet)[3500mh,.........]
+
+7. display(,,)[below 5.2inch, 5.2-5.5, .....6.5 above]
+
+8. screen resolution(,,)[hd, 2k, 4k]
+
+9. procressor(,,)[1.4ghz, 2, 2.3, ...]
+
+10. system on chip(bullet)[snapdragran, mediatek, a chip, exynos]
+
+11. system core(,,)[dual, quad, octacore]
+
+12. refreash rate (,,)[120hz, 90hz]
+
+13. camera
+		 front camera 
+		
+		b. , , , , , , , resolutaion(bullet)[2mp,  5mp, 8Mp] 
+		
+		 Main camera
+		b. , , , , , , no.(,,)[1,2]
+		c. , , , , , , resolution(,,)[2MP, 5MP, 8MP]
+
+14. video (,,)[hd]
+
+15. network type(,,)[2g, 3g, 4g]
+
+16. sim support(,,)[ single][volte, vowifi]
+
+17. connection and more(check box)[bluetooth5, fm, face unlock, finger print]
+
+18. design(,,)[slim, water proof, water registant]
+
+19. screen type(bullet)[gorilla, amolad, super amolad, ips lcd]
+
+20. Others(checkbox)[usb type c, usb type b, fast charing]

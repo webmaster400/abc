@@ -1,0 +1,159 @@
+Key Specs
+
+Android v11
+
+Performance: 
+1. Octa core (2 GHz, Quad Core + 2 GHz, Quad core)
+2. Samsung Exynos 8nm Octa
+3. 4 GB RAM
+	
+Display
+1. 6.5 inches (16.55 cm)
+2. 270 PPI, IPS LCD
+3. 90 Hz Refresh Rate	
+
+Camera
+1. 48 + 5 + 2 + 2 MP Quad Primary Cameras
+2. LED Flash
+3. 8 MP Front Camera	
+
+Battery
+1. 6000 mAh
+2. Fast Charging
+3. USB Type-C Port
+
+
+64 GB + 1 TB Expandable			Dual SIM: Nano + Nano		Supports Indian bands
+VoLTE					Fingerprint sensor		USB OTG Support
+FM Radio
+
+
+
+
+
+SAMSUNG GALAXY F12 SPECIFICATIONS				COMPARE SPECS TO 	7 - 11 K Phones
+
+Key Specs
+	RAM		4 GB
+	Processor		Samsung Exynos 8nm Octa 850
+	Rear Camera		48 MP + 5 MP + 2 MP + 2 MP
+	Front Camera		8 MP
+	Battery		6000 mAh
+	Display		6.5 inches 
+
+
+General
+	Launch Date		April 5, 2021 (Official)
+	Operating System		Android v11
+	Custom UI		Samsung One UI 
+
+
+Performance
+Good ▾
+	Chipset		Samsung Exynos 8nm Octa 850
+	CPU		Octa core (2 GHz, Quad core, Cortex A55 + 2 GHz, Quad core, Cortex A55)
+	Architecture		64 bit
+	Fabrication		8 nm
+	Graphics		Mali-G52 MP1
+	RAM		4 GB
+	RAM Type		LPDDR4X 
+
+
+Display
+	Display Type		IPS LCD
+	Screen Size		6.5 inches (16.55 cm)
+	Resolution		720 x 1600 pixels
+	Aspect Ratio		20:9
+	Pixel Density		270 ppi
+	Screen to Body Ratio (calculated)		81.95 %
+	Bezel-less display		Yes with notch
+	Touch Screen		Yes, Capacitive Touchscreen, Multi-touch
+	Refresh Rate		90 Hz 
+
+Design
+	Height		164 mm Compare Size 
+	Width		75.9 mm
+	Thickness		9.7 mm
+	Weight		221 grams
+	Build Material		Back: Plastic
+	Colours		Sea Green, Sky Blue, Celestial Black 
+
+
+Camera		
+	MAIN CAMERA
+		Camera Setup		Quad
+		Resolution		48 MP f/2.0 (upto 10x Digital Zoom), Wide Angle Primary Camera
+					(2" sensor size, 0.8µm pixel size)
+					5 MP f/2.2, Wide Angle, Ultra-Wide Angle Camera
+					(4.0" sensor size, 1.12µm pixel size)
+					2 MP f/2.4, Macro Camera
+					2 MP f/2.4, Depth Camera
+		Sensor		ISOCELL Plus
+		Autofocus		Yes
+		Flash		Yes, LED Flash
+		Image Resolution		8000 x 6000 Pixels
+		Settings		Exposure compensation, ISO control
+		Shooting Modes		Continuos Shooting
+					High Dynamic Range mode (HDR)
+		Camera Features		10 x Digital Zoom
+					Auto Flash
+					Face detection
+					Touch to focus
+		Video Recording		1920x1080 @ 30 fps
+
+
+	FRONT CAMERA
+		Camera Setup		Single
+		Resolution		8 MP f/2.2, Wide Angle Primary Camera
+		Video Recording		1920x1080 @ 30 fps 
+
+
+Battery
+	Capacity		6000 mAh
+	Type		Li-ion
+	Removable		No
+	Quick Charging		Yes, Fast, 15W
+	USB Type-C		Yes 
+
+
+Storage
+	Internal Memory		64 GB
+	Expandable Memory		Yes, Up to 1 TB
+	USB OTG		Yes 
+
+
+Network & Connectivity
+	SIM Slot(s)		Dual SIM, GSM+GSM
+	SIM Size		SIM1: Nano, SIM2: Nano
+	Network Support		4G (supports Indian bands), 3G, 2G
+	VoLTE			Yes
+	SIM 1			4G Bands:TD-LTE 2300(band 40)
+					FD-LTE 1800(band 3)
+				3G Bands:UMTS 1900 / 2100 / 850 / 900 MHz
+				2G Bands:GSM 1800 / 1900 / 850 / 900 MHz
+				   GPRS:Available
+				   EDGE:Available
+	SIM 2		4G Bands:TD-LTE 2300(band 40)
+			  	 FD-LTE 1800(band 3)
+			3G Bands:UMTS 1900 / 2100 / 850 / 900 MHz
+			2G Bands:GSM 1800 / 1900 / 850 / 900 MHz
+				GPRS:Available
+				EDGE:Available
+	Wi-Fi		Yes, Wi-Fi 802.11, b/g/n
+	Wi-Fi Features		Mobile Hotspot
+	Bluetooth		Yes, v5.0
+	GPS		Yes with A-GPS, Glonass
+	USB Connectivity		Mass storage device, USB charging 
+
+
+Multimedia
+	FM Radio		Yes, Recording option
+	Loudspeaker		Yes
+	Audio Jack		3.5 mm
+	Audio Features		Dolby Atmos 
+
+
+Sensors
+	Fingerprint Sensor		Yes
+	Fingerprint Sensor Position		Side
+	Other Sensors		Light sensor, Proximity sensor, Accelerometer
